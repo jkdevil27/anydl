@@ -41,10 +41,17 @@ Telegram ID : <code>{}</code>
 
 """
     HELP_USER = """Hii I am <b>Multipurpose bot</b> and I can perform many tasks.
-    
-1.) Send url (Link|New Name with Extension).
-2.) Send Custom Thumbnail (Optional).
-3.) Select the button.
+1.) FOR RENAMING AND CONVERSION PURPOSED
+Reply to a file with /rename to rename a file 
+to convert to file use /c2f
+for video conversion use /c2v
+for conversion to audio use /c2a
+FOR CUSTOM THUMBNAIL SEND A JPEG IMAGE TO BOT 
+
+2.) URL UPLOAD TO TELEGRAM
+Send url (Link|New Name with Extension).
+ Send Custom Thumbnail (Optional).
+   Select the button.
    SVideo - Give File as video with Screenshots
    DFile  - Give File with Screenshots
    Video  - Give File as video without Screenshots
