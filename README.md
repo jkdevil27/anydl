@@ -4,7 +4,7 @@
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/adarsh-goel/anydl)
 
 #### The Hard Way
 
@@ -23,7 +23,6 @@ help-ask for help <br>
 go -upload to gofiles <br>
 anon -upload to anonfiles<br>
 bay-upload to bayfiles<br>
-ffmpegrobot-  check it<br>
 trim -trim the video<br>
 storage -storage data<br>
 clearffmpegmedia - clear ffmpeg media<br>
@@ -38,6 +37,7 @@ tsh - upload to transfer sh<br>
 me- my info<br>
 ren- rename files<br>
 del_thumb - clear custom thumbnail<br>
+unzip- unzip
 
 
 ## CODE REDESIGNED BY [Adarsh Goel](https://github.com/adarsh-goel)<br><br>
