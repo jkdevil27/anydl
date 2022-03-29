@@ -29,6 +29,6 @@ async def start(client, message):
         [InlineKeyboardButton(
             "💥 SUPPORT GROUP 💥", url="https://t.me/ASTROFLIX")]
     ])
-    welcomed = f"Hey <b>{message.from_user.first_name}</b>\nThis is Multipurpose Bot that can perform many functions.\n THIS BOT CONTANS MANY FEATURES SUCH AS \n RENAMING , CONVERTING , URL UPLOAD , UPLOAD TO CLOUD SERVICES ,SCREENSHOT GENERATION , VIDEO TRIMMING , UNZIPPING FILES AND MUCH MORE \n,/help for More info  \n Bot Uptime : {bot_uptime}"
+    welcomed = f"Hey <b>{message.from_user.first_name}</b>\nThis is Multipurpose Bot that can perform many functions.\n THIS BOT CONTANS MANY FEATURES SUCH AS \n RENAMING , CONVERTING , URL DOWNLOAD, youtube download , UPLOAD TO CLOUD SERVICES ,SCREENSHOT GENERATION , VIDEO TRIMMING , UNZIPPING FILES AND MUCH MORE \n,/help for More info  \n Bot Uptime : {bot_uptime}"
     await message.reply_text(welcomed, reply_markup=joinButton)
     raise StopPropagation
