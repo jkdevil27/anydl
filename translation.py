@@ -4,7 +4,6 @@ This is a Telegram Multipurpose Bot Which can do many functions.
 
 /help for more details..
 
-follow me on github https://github.com/adarsh-goel
 """
     IFLONG_FILE_NAME = " Only 64 characters can be named . "
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
@@ -53,7 +52,7 @@ Telegram ID : <code>{}</code>
    
 4.) check other commands by  typing a /
 
-Bot Powered by: @adarsh_goel"""
+Bot Powered by: @ax_botz"""
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
     REPLY_TO_DOC_FOR_SCSS = "Reply to a Telegram media to get screenshots"
