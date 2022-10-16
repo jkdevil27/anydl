@@ -1,7 +1,7 @@
 {
   "name": "AnyDLBot",
   "description": "Telegram's best ALL-In-One Multi Purpose RoBot.",
-  "stack": "container",
+  "stack": "heroku-20",
   "keywords": [
     "telegram",
     "best",
